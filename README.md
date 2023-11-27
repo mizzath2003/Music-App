@@ -47,13 +47,47 @@ To update the API key:
     Inside the file, look for the section where the API key is used.
     Replace the existing API key with your new Shazam API key from RapidAPI.
 
-4. **Save Changes:**
 
-    Save the file after updating the API key.
+
+
+## Get Started
+
+To set up a development environment for this project, follow these steps:
+
+1. **Clone the repository:**
+
+    ```shell
+    git clone https://github.com/mizzath2003/Music-App.git
+    ```
+
+2. **Navigate to the project directory:**
+
+    ```shell
+    cd (project_directory)
+    ```
+
+3. **Install the dependencies:**
+
+    ```shell
+    npm install
+    ```
+
+4. **Acquire API Keys:**
+
+    - Obtain API keys for the Shazam API and IP Geolocation API from their respective providers.
+    - Update the `.env` file with your API keys in the following format:
+
+    ```plaintext
+    REACT_APP_SHAZAM_API_KEY=YOUR_SHAZAM_API_KEY
+    REACT_APP_IP_GEOLOCATION_API_KEY=YOUR_IP_GEOLOCATION_API_KEY
+    ```
+
+5. **Run the app:**
+
+    ```shell
+    npm start
+    ```
    
 
-Ensure the API key is correctly replaced to enable proper integration with the Shazam API for fetching music data.
 
-
-
-Thank you for exploring My Music App! 🎧🎶
+ 🎧🎶
