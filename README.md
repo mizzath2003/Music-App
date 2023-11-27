@@ -2,7 +2,7 @@
 
 Welcome to My Music App, a platform where users can explore different varieties of music, search for tracks, and discover trending music in their area.
 
-![Music App](music_app_screenshot.png)
+![Music App](img.png)
 
 ## Overview
 
