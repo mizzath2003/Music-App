@@ -26,17 +26,33 @@ Welcome to My Music App, a platform where users can explore different varieties 
 
 ## API Integration
 
-This app integrates with Shazam API to fetch music data. Make sure to acquire API keys and replace them in the code's API request section.
+This app integrates with the Shazam API to fetch music data. Ensure to acquire your API key from [RapidAPI - Shazam](https://rapidapi.com/search/shazam) and replace it in the code's API request section.
 
-## Future Enhancements
+### Updating API Key
 
-Future improvements may include:
-- **User Profiles:** Allow users to create profiles and save favorite tracks.
-- **Personalized Recommendations:** Provide personalized music recommendations based on user preferences.
-- **Enhanced UI/UX:** Improve the user interface for a better music exploration experience.
+To update the API key:
 
-## Usage Notice
+1. **Navigate to the Services Directory:**
 
-⚠️ **Usage Disclaimer:** My Music App is developed for educational purposes and integrates third-party APIs. Ensure compliance with API usage policies and terms.
+    ```plaintext
+    /src/redux/services
+    ```
+
+2. **Locate the API File:**
+
+    Find the file responsible for API requests, named `shazamAPI.js` or similar.
+
+3. **Replace API Key:**
+
+    Inside the file, look for the section where the API key is used.
+    Replace the existing API key with your new Shazam API key from RapidAPI.
+
+4. **Save Changes:**
+
+    Save the file after updating the API key.
+
+Ensure the API key is correctly replaced to enable proper integration with the Shazam API for fetching music data.
+
+
 
 Thank you for exploring My Music App! 🎧🎶
