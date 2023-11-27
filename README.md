@@ -50,6 +50,7 @@ To update the API key:
 4. **Save Changes:**
 
     Save the file after updating the API key.
+   
 
 Ensure the API key is correctly replaced to enable proper integration with the Shazam API for fetching music data.
 
