@@ -72,16 +72,6 @@ To set up a development environment for this project, follow these steps:
     npm install
     ```
 
-4. **Acquire API Keys:**
-
-    - Obtain API keys for the Shazam API and IP Geolocation API from their respective providers.
-    - Update the `.env` file with your API keys in the following format:
-
-    ```plaintext
-    REACT_APP_SHAZAM_API_KEY=YOUR_SHAZAM_API_KEY
-    REACT_APP_IP_GEOLOCATION_API_KEY=YOUR_IP_GEOLOCATION_API_KEY
-    ```
-
 5. **Run the app:**
 
     ```shell
