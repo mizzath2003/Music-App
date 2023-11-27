@@ -31,7 +31,7 @@ const Search = () => {
         {songs?.map((song, i) => (
           <SongCard
             key={song.key}
-            song={song}
+            song={song.track}
             isPlaying={isPlaying}
             activeSong={activeSong}
             data={data}
