@@ -43,7 +43,7 @@ This app integrates with the Shazam API to fetch music data. Grab your API key f
 
     Inside the file, find where the API key is used and replace it with your new Shazam API key from RapidAPI.
 
-## Get Started 🚀
+# Get Started 🚀
 
 To set up your development environment:
 
