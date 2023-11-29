@@ -2,7 +2,7 @@
 
 Welcome to My Music App, a platform where users can explore different varieties of music, search for tracks, and discover trending music in their area.
 
-[![Music App](img.png)](https://mizzath-lyrics-app.netlify.app)
+[![Music App](img1.png)](https://mizzath-lyrics-app.netlify.app)
 
 ## Overview 🌟
 
